@@ -5,23 +5,19 @@
     font-size:20px;
 }
 
-.oliviaImg {
-    height: 50px;
-    width: 65%;
-}
-
 .rowFooter{
- display: flex; 
- justify-content: space-around; 
+ display:flex; 
+ justify-content:space-around; 
  text-align: center;
  background-color: #F5F5F5;
 }
 
 .rowContact {
  background-color: #F5F5F5;    
+ text-align: center;
 }
 
-.rowAboutMe {
+.rowaboutme {
    background-color: #F5F5F5;
 }
 
@@ -41,8 +37,6 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
-   
 }
 .mid{
     background-color:white;
