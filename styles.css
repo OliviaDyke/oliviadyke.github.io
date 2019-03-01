@@ -34,7 +34,7 @@
 
 body {
  font-family: 'Montserrat', sans-serif;
- background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/blue-watercolor-background-panupong-lithkai.jpg");
+ background-image: url("https://image.freepik.com/free-vector/cherry-blossom-background-watercolor-style_23-2147767879.jpg");
  border: 10px black;
  border-style: double dotted;
 color: black;
@@ -67,7 +67,6 @@ h1 {
 }
 
 .mid{
- background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/blue-watercolor-background-panupong-lithkai.jpg");
     color:black;
     align-items:center;
     font-size:50px;
