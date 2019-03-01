@@ -34,10 +34,10 @@
 
 body {
  font-family: 'Montserrat', sans-serif;
- background-color: #C4F2F6;
+ background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/blue-watercolor-background-panupong-lithkai.jpg");
  border: 10px black;
-     border-style: double dotted;
-     color: black;
+ border-style: double dotted;
+color: black;
 }
 
 h1 {
